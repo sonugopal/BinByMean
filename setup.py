@@ -9,7 +9,7 @@ setup(
   author_email = 'sonu.g@mca.christuniversity.in',      # Type in your E-Mail
   url = 'https://github.com/sonugopal/BinByMean.git',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/sonugopal/BinByMean/archive/v0.1.tar.gz',    # I explain this later on
-  keywords = ['ZScore','Z Score','Z-Score', 'normalization', 'python'],   # Keywords that define your package best
+  keywords = ['Bin By Mean', 'Noise Reduction', 'python'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
           'numpy',
