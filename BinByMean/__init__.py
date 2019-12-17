@@ -2,7 +2,7 @@ import itertools
 import  pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import statistics
+
 
 def binByMean(data,binNo):
     data=np.sort(data)
