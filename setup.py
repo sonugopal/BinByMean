@@ -7,8 +7,8 @@ setup(
   description = 'Performs Bin By mean in your dataset.',   # Give a short description about your library
   author = 'SONU GOPAL',                   # Type in your name
   author_email = 'sonu.g@mca.christuniversity.in',      # Type in your E-Mail
-  url = 'https://github.com/sonugopal/BinByMean.git',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/sonugopal/binbyname/archive/0.2.tar.gz',    # I explain this later on
+  url = 'https://github.com/sonugopal/binbymean.git',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/sonugopal/binbymean/archive/0.2.tar.gz',    # I explain this later on
   keywords = ['Bin By Mean', 'Noise Reduction', 'python'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
